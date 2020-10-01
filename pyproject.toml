@@ -5,6 +5,7 @@ description = "A simple blackjack poker game."
 authors = ["JackLPK <puikit.li.jack@gmail.com>"]
 license = "MIT"
 readme = "README.md"
+homepage = "https://github.com/JackLPK/ttblackjack/"
 
 [tool.poetry.dependencies]
 python = "^3.7"
