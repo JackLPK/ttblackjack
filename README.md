@@ -2,6 +2,8 @@
 
 A simple blackjack poker game.
 
+<img src="images/picture-01.png" width="300" />
+
 ## Install
 Install from `wheel` or PyPI
 ```
