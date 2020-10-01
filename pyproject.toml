@@ -6,6 +6,7 @@ authors = ["JackLPK <puikit.li.jack@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 homepage = "https://github.com/JackLPK/ttblackjack/"
+repository = "https://github.com/JackLPK/ttblackjack/"
 
 [tool.poetry.dependencies]
 python = "^3.7"
