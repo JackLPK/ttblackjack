@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ttblackjack"
-version = "0.1.0"
+version = "0.1.0a1"
 description = "A simple blackjack poker game."
 authors = ["JackLPK <puikit.li.jack@gmail.com>"]
 license = "MIT"

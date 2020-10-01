@@ -6,7 +6,7 @@ import toml
 from ttblackjack.suit import Suit
 
 
-__version__ = "0.1.0"
+__version__ = "0.1.0.a1"
 APP_NAME = 'ttblackjack'
 PROJ_DIR = Path(__file__).parent.parent.resolve()
 APP_DIR = Path(PROJ_DIR, APP_NAME).resolve()
