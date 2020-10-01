@@ -21,10 +21,11 @@ debug = false
 # just don't touch this
 viewer = "cli"
 
+# Set players here
+# Algorithms: 'user', 'basic 1', 'basic 2', 'x-ray', and 'dealer', only 1 dealer should exist
 [[players]]
 name = "player-1"
 algorithm = "basic 1"
-user = true
 
 [[players]]
 name = "player-2"
